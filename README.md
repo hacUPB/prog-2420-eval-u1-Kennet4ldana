@@ -59,6 +59,7 @@ Hadware y Software
    R/= Al presionar el boton de encendido se da un arranque o una chispa en los sistemas internos de la torre que es la que le da funcionalidad y potencia a los demas sistemas y redireccionando a que sistema proveer dependiendo de lo que se solicite, en este caso se pasa se prende la pantalla y el sistema empieza a calentar para poder a trabajar en maximas condiciones "software"
 
   COMENTARIO
+  
    No sabia la rapidez en la capacidad de GHz tan alta con la que trabajan algunos procesadores actualmente "10 GHz procesadores de alta gama" y como los GHz se reproducian o repetían por decirlo así por minuto
 
 
