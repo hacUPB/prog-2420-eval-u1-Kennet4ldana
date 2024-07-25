@@ -37,7 +37,8 @@
   _Software de desarrollo_
    Se encarga de hacer finalidad de funciones como lo son depurar, probar, escribir y desarrolar otros programas
 
-     *Preguntas* 
+  *Preguntas*
+
   _¿Como interactua el hardware con el software y cual es la función de cada uno?_
 
     R/= La interacción entre hardware y software fue teorizada por John Von Neumann, quien estableció que el sistema operativo administra y coordina los recursos del sistema, como la CPU y la memoria RAM, mientras que las aplicaciones se ejecutan mediante instrucciones traducidas a código binario que el hardware puede procesar 
