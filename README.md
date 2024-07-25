@@ -71,9 +71,9 @@
 
 *{Bibliografia}*
 
--(https://www.wolterskluwer.com/es-es/expert-insights/
+-(https://www.wolterskluwer.com/es-es/expert-insights/)
 
--que-tipos-de-software-hay#:~:text=El%20software%20de%20sistema%20es,sistemas%20operativos%20Windows%20o%20Mac)
+-(que-tipos-de-software-hay#:~:text=El%20software%20de%20sistema%20es,sistemas%20operativos%20Windows%20o%20Mac)
 
 -(https://www.crucial.mx/articles/pc-builders/what-is-computer-hardware)
 
