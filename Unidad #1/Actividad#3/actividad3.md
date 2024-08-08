@@ -1,1 +1,1 @@
-Problema 5: Calcular el total de puntos obtenidos en un juego de bolos basado en las puntuaciones de cada tiro
+Problema 5
