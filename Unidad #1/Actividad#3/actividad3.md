@@ -6,15 +6,15 @@ Ana quiere saber si ha aprobado sus exámenes finales. Tiene una lista de sus ca
 
 2. Son 5 notas de las cuales todas valen el 20% de la materia, las cuales van de 1 hasta 5 
 
-3.     Nota 1       Nota 2          Nota 3          Nota 4     Nota 5 
+3.     Nota 1       Nota 2          Nota 3         Nota 4     Nota 5 
 
         2.0           3.0             4.0           2.0        3.0 
 
-2.0+3.0+4.0+2.0+3.0/5 
+                                2.0+3.0+4.0+2.0+3.0/5 
 
 TOTAL 2.8 
 
-Primero 
+"Primero"
 
 *Range de 1 a 5 
 
@@ -22,7 +22,7 @@ Primero
 
 *Como último dividir la sumatoria por el número de notas que hay 
 
-4. Como cada nota equivale lo mismo se multiplica las veces que estas se dan en las notas y se dividen por el número de notas que fueron y de ahí se saca la nota final, si los porcentajes son diferentes se multiplican por la cantidad y el porcentaje que representen y se dividen por 100. 
+*Como cada nota equivale lo mismo se multiplica las veces que estas se dan en las notas y se dividen por el número de notas que fueron y de ahí se saca la nota final, si los porcentajes son diferentes se multiplican por la cantidad y el porcentaje que representen y se dividen por 100. 
 
 Nota*(Cantidad de veces que se repite)*(porcentaje)/100 
 
@@ -40,7 +40,7 @@ Luis está participando en un torneo de bolos y quiere calcular su puntaje total
 
 3. Son 10 rondas donde por ronda tienes dos turnos o posibilidades de derribar los 10 pinos (una chuza) para tener mayor puntaje (100 puntos máximo por juego) 
 
-4.   5  4   4  4   6  2   8  1   5  2   1  7   9  0   3  7   7  1  10  0 
+4.      5  4     4  4     6  2    8  1     5  2     1  7    9  0     3  7    7  1   10  0 
 
           9        8       8       9        7        8       9       10      8       10       
 
