@@ -71,14 +71,16 @@ Se empiezan  a poner condiciones
 
 *Segunda condición: Si es su cumpleaños print: Feliz cumpleaños 
 
-Calcular la edad de la persona  
+-Calcular la edad de la persona  
 
-Se restan los años actuales con los de la fecha de nacimiento 
+-Se restan los años actuales con los de la fecha de nacimiento 
 
-Si es menor el mes de nacimiento al actual (Ya cumplió años) Print ya cumplió   
+-Si es menor el mes de nacimiento al actual (Ya cumplió años) Print ya cumplió   
 
-Print la resta de los años actuales con el año de nacimiento que sería los años actuales 
+-Print la resta de los años actuales con el año de nacimiento que sería los años actuales 
 
-Si es mayor el mes de nacimiento se resta con el actual y se comparan días si es igual el mes sino se hace nada y se prosigue con los días  
+-Si es mayor el mes de nacimiento se resta con el actual y se comparan días si es igual el mes sino se hace nada y se prosigue con los días  
 
-Si el día es igual print feliz cumpleaños cham@, si el día de cumpleaños es mayor al actual se resta el número del día del cumpleaños menos el día actual y si el día es menor al actual print error 
+-Si el día es igual print feliz cumpleaños cham@, si el día de cumpleaños es mayor al actual se resta el número del día del cumpleaños menos el día actual y si el día es menor al actual print error 
+
+              :sunny:          :sunny:           :sunny:            :sunny:   
