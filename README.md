@@ -83,7 +83,4 @@
 
 :+1:  :+1:  :+1: :+1: :+1: :+1: :+1: 
        :sunny:     :sunny:     :sunny:     :sunny:    :sunny:     :sunny:
-
- :sunny  :sunny
-  no no
   
