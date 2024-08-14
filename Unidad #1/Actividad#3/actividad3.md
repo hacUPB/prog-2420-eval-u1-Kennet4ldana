@@ -6,7 +6,7 @@ Ana quiere saber si ha aprobado sus exámenes finales. Tiene una lista de sus ca
 
 2. Son 5 notas de las cuales todas valen el 20% de la materia, las cuales van de 1 hasta 5 
 
-3. Nota 1    Nota 2    Nota 3   Nota 4   Nota 5 
+3.     Nota 1       Nota 2          Nota 3          Nota 4     Nota 5 
 
         2.0           3.0             4.0           2.0        3.0 
 
