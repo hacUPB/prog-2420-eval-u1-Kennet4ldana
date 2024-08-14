@@ -83,4 +83,4 @@ Se empiezan  a poner condiciones
 
 -Si el día es igual print feliz cumpleaños cham@, si el día de cumpleaños es mayor al actual se resta el número del día del cumpleaños menos el día actual y si el día es menor al actual print error 
 
-              :sunny:          :sunny:           :sunny:            :sunny:   
+                  :sunny:          :sunny:           :sunny:            :sunny:   
