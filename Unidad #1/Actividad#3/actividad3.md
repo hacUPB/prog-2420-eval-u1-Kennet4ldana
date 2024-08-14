@@ -1,4 +1,4 @@
-Problema 1: Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no 
+_Problema 1_: Determinar el promedio de calificaciones de un estudiante y si ha aprobado o no 
 
 Ana quiere saber si ha aprobado sus exámenes finales. Tiene una lista de sus calificaciones y necesita calcular el promedio. Para aprobar, debe tener un promedio de al menos 3.0. 
 
@@ -8,13 +8,13 @@ Ana quiere saber si ha aprobado sus exámenes finales. Tiene una lista de sus ca
 
 3.     Nota 1       Nota 2          Nota 3         Nota 4     Nota 5 
 
-        2.0           3.0             4.0           2.0        3.0 
+        2.0          3.0            4.0           2.0        3.0 
 
                                 2.0+3.0+4.0+2.0+3.0/5 
 
 TOTAL 2.8 
 
-"Primero"
+*Primero*
 
 *Range de 1 a 5 
 
@@ -26,11 +26,8 @@ TOTAL 2.8
 
 Nota*(Cantidad de veces que se repite)*(porcentaje)/100 
 
- 
 
- 
-
-Problema 5: Calcular el total de puntos obtenidos en un juego de bolos basado en las puntuaciones de cada tiro 
+_Problema 5_: Calcular el total de puntos obtenidos en un juego de bolos basado en las puntuaciones de cada tiro 
 
 Luis está participando en un torneo de bolos y quiere calcular su puntaje total. Tiene una lista de las puntuaciones de cada tiro y necesita sumar los puntos siguiendo las reglas del juego. 
 
@@ -56,7 +53,7 @@ TOTAL       86 PTS
 
 6. Fin 
 
-Problema 6 (obligatorio): Calcular la edad de una persona a partir de su fecha de nacimiento y la fecha actualDescripción del Problema: Se desea saber cuántos años, meses y días tiene actualmente una persona, basándose en su fecha de nacimiento. Además, le gustaría saber si ya ha cumplido años este año o aún no, y si hoy es su cumpleaños para celebrarlo. Cada una de las fechas está conformada por 3 variables: día, mes y año 
+_Problema 6 (obligatorio)_: Calcular la edad de una persona a partir de su fecha de nacimiento y la fecha actualDescripción del Problema: Se desea saber cuántos años, meses y días tiene actualmente una persona, basándose en su fecha de nacimiento. Además, le gustaría saber si ya ha cumplido años este año o aún no, y si hoy es su cumpleaños para celebrarlo. Cada una de las fechas está conformada por 3 variables: día, mes y año 
 
 Print fecha de nacimento en numeros 
 
@@ -85,5 +82,3 @@ Print la resta de los años actuales con el año de nacimiento que sería los a�
 Si es mayor el mes de nacimiento se resta con el actual y se comparan días si es igual el mes sino se hace nada y se prosigue con los días  
 
 Si el día es igual print feliz cumpleaños cham@, si el día de cumpleaños es mayor al actual se resta el número del día del cumpleaños menos el día actual y si el día es menor al actual print error 
-
- 
